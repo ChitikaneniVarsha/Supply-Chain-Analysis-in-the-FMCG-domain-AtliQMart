@@ -21,7 +21,7 @@ Create relevant insights not provided in the metric list/stakeholder meeting.
 # Data Model:
 ![image](https://github.com/ChitikaneniVarsha/Supply-Chain-Analysis-in-the-FMCG-domain-AtliQMart/assets/119399943/c3fcd077-d5da-4b32-8112-a6a962e5255e)
 
-# Dashboard : 
+# Report : 
 
 
 ![image](https://github.com/ChitikaneniVarsha/Supply-Chain-Analysis-in-the-FMCG-domain-AtliQMart/assets/119399943/9cd5330e-b336-4bf5-9ceb-ecaa19d94db1)
