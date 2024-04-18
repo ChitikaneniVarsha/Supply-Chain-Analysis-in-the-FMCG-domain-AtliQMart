@@ -1,1 +1,1 @@
-# Supply-Chain-Issue-in-the-FMCG-domain-AtliQMart
+# Supply-Chain-Analysis-in-the-FMCG-domain-AtliQMart
